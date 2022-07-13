@@ -14,5 +14,8 @@ public class testGit {
         System.out.println("master modify");
         System.out.println("hot-fix modify");
         System.out.println("hot-fix second modify");
+        System.out.println("finally modify");
+        System.out.println("finally modify");
+        System.out.println("finally modify");
     }
 }
