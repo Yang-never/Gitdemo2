@@ -6,6 +6,9 @@ public class testGit {
         System.out.println("second commit");
         System.out.println("third commit");
         System.out.println("fourth commit");
+        System.out.println("master modify");
+        System.out.println("master modify");
         System.out.println("hot-fix modify");
+        System.out.println("hot-fix second modify");
     }
 }
