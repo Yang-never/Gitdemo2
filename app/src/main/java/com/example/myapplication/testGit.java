@@ -17,5 +17,6 @@ public class testGit {
         System.out.println("finally modify");
         System.out.println("finally modify");
         System.out.println("finally modify");
+        System.out.println("pull test");
     }
 }
